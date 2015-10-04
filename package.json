@@ -1,0 +1,15 @@
+{
+  "name": "MovieApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react-native": "^0.11.4"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.5.8"
+  }
+}
